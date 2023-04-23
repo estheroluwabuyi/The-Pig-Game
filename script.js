@@ -85,11 +85,6 @@
   newGame();
   };
   startGame();
-  
-  //  break project into smaller parts
 
-/*genScore.forEach(gen =>{
-     gen.textContent = 0;
-   });*/
-   
-   /*document.getElementById(`score--${activePlayer}`).textContent = document.getElementById(`current--${activePlayer}`);*/
+
+
